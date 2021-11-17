@@ -219,7 +219,7 @@ ul, li {
 
 .contact {
     margin: 150px 0;
-    height: 900px;
+    height:max-content;
     width: 1020px;
     text-align: center;
     vertical-align: middle;
