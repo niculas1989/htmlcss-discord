@@ -209,4 +209,24 @@ ul, li, a {
 
 /* section CONTACT */
 
+.contact {
+    margin: 150px 0;
+    height: 800px;
+    width: 1200px;
+    text-align: center;
+}
 
+.contact h2 {
+    font-size: 50px;
+    color: #23272A;
+    margin: 20px 0;
+}
+
+.contact p {
+    font-size: 18px;
+    color: #23272A;
+}
+
+.contact img {
+    width: 1200px;
+}
