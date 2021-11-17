@@ -26,8 +26,16 @@ header {
     float: left;
 }
 
+.w15 {
+    width: 15%;
+}
+
 .w20 {
     width: 20%;
+}
+
+.w30 {
+    width: 30%;
 }
 
 .w50 {
@@ -240,7 +248,7 @@ ul, li, a {
     background-image: url(../img/stars.svg);
     background-size: contain;
     position: absolute;
-    left: 40%;
+    left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
 }
@@ -252,6 +260,8 @@ ul, li, a {
 
 .centrato {
     position: relative;
+
+    margin: 40px 0;
 }
 
 .btn-purple {
@@ -259,6 +269,21 @@ ul, li, a {
     color: white;
 }
 
+.btn-purple:hover {
+    color: blue;
+}
+
+.ready {
+    margin-bottom: 100px;
+}
+
 .ready a {
     margin: 30px 0;
+}
+
+/* FOOTER */
+
+.footer-page {
+    height: 500px;
+    background-color: #23272A;
 }
