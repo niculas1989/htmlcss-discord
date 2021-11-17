@@ -60,7 +60,7 @@ header {
     line-height: 80px;
 }
 
-ul, li, a {
+ul, li {
     display: inline-block;
     margin: 0 10px;
 }
