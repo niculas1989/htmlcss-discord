@@ -13,6 +13,7 @@
 .container {
     width: 1020px;
     margin: 0 auto;
+    font-family: Whitney, Helvetica Neue, Helvetica,Arial, sans-serif;
 }
 
 /* Utilities */
@@ -28,17 +29,24 @@
     width: 60%;
 }
 
+.text-center {
+    text-align: center;
+}
+
 
 
 /* HEADER */
 
 header {
     background-color: #255ee9;
-    height: 80px;
-    line-height: 80px;
 }
 
 /* top-bar */
+
+.top-bar {
+    height: 80px;
+    line-height: 80px;
+}
 
 ul, li, a {
     display: inline-block;
@@ -60,4 +68,18 @@ ul, li, a {
 
 #logo {
     vertical-align: middle;
+}
+
+/* Buttons */
+
+.btn {
+    border-radius: 20px;
+    margin: 0 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.bnt.btn-light {
+    background-color: white;
+    padding: 10px 15px;
 }
