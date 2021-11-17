@@ -42,8 +42,6 @@ header {
     text-align: center;
 }
 
-
-
 /* HEADER */
 
 /* top-bar */
@@ -121,6 +119,7 @@ ul, li, a {
     background-repeat: no-repeat;
     position: relative;
     margin-bottom: 150px;
+    position: relative;
 }
 
 .contain {
@@ -153,7 +152,59 @@ ul, li, a {
 }
 
 .collaboration p {
-    font-size: 20px;
+    font-size: 18px;
     color: #23272A;
 }
+
+.collaboration .col {
+    margin: 20px 40px;
+}
+
+
+.collaboration {
+    margin: 150px 0;
+}
+
+/* section FINDING */
+
+.finding {
+    margin: 150px 0;
+}
+
+.finding h2 {
+    font-size: 50px;
+    color: #23272A;
+    margin: 20px 0;
+}
+
+.finding p {
+    font-size: 18px;
+    color: #23272A;
+}
+
+.finding .col {
+    margin: 20px 40px;
+}
+
+/* section NUMBERS */
+
+.numbers {
+    margin: 150px 0;
+}
+
+.numbers h2 {
+    font-size: 50px;
+    color: #23272A;
+    margin: 20px 0;
+}
+
+.numbers p {
+    font-size: 18px;
+    color: #23272A;
+}
+
+.numbers .col {
+    margin: 20px 40px;
+}
+
 
