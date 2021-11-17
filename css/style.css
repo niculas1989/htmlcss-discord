@@ -293,6 +293,10 @@ ul, li {
     color: #7389DA;
 }
 
+.footer-page h3 {
+    font-size: 25px;
+}
+
 .footer-page p {
     color: white;
 }
