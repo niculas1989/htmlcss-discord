@@ -35,6 +35,7 @@
 header {
     background-color: #255ee9;
     height: 80px;
+    line-height: 80px;
 }
 
 /* top-bar */
@@ -55,4 +56,8 @@ ul, li, a {
 
 #right {
     text-align: right;
+}
+
+#logo {
+    vertical-align: middle;
 }
