@@ -28,7 +28,31 @@
     width: 60%;
 }
 
+
+
+/* HEADER */
+
 header {
     background-color: #255ee9;
     height: 80px;
+}
+
+/* top-bar */
+
+ul, li, a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.col a {
+    text-decoration: none;
+    color: white;
+}
+
+.col a:hover {
+    text-decoration: underline;
+}
+
+#right {
+    text-align: right;
 }
