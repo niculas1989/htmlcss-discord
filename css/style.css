@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Whitney, Helvetica Neue, Helvetica,Arial, sans-serif;
 }
 
 .clearfix::after {
@@ -13,7 +14,6 @@
 .container {
     width: 1020px;
     margin: 0 auto;
-    font-family: Whitney, Helvetica Neue, Helvetica,Arial, sans-serif;
 }
 
 header {
@@ -29,6 +29,11 @@ header {
 .w20 {
     width: 20%;
 }
+
+.w50 {
+    width: 50%;
+}
+
 .w60 {
     width: 60%;
 }
@@ -115,6 +120,7 @@ ul, li, a {
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
+    margin-bottom: 150px;
 }
 
 .contain {
@@ -135,3 +141,19 @@ ul, li, a {
     line-height: 30px;
     margin: 30px 0;
 }
+
+/* MAIN */
+
+/* section COLLABORATION */
+
+.collaboration h2 {
+    font-size: 50px;
+    color: #23272A;
+    margin: 20px 0;
+}
+
+.collaboration p {
+    font-size: 20px;
+    color: #23272A;
+}
+
