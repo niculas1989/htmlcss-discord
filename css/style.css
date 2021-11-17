@@ -292,3 +292,12 @@ ul, li {
 .footer-page h3, h4 {
     color: #7389DA;
 }
+
+.footer-page p {
+    color: white;
+}
+
+.footer-page .fab {
+    color: white;
+    margin: 0 10px;
+}
