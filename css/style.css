@@ -230,3 +230,18 @@ ul, li, a {
 .contact img {
     width: 1200px;
 }
+
+/* section READY */
+
+.ready {
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    background-image: url(../img/stars.svg);
+    background-size: contain;
+}
+
+.ready-style {
+    font-size: 25px;
+    font-weight: bolder;
+}
