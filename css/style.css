@@ -54,7 +54,7 @@ ul, li, a {
     margin: 0 10px;
 }
 
-.col a {
+.top-menu a {
     text-decoration: none;
     color: white;
 }
@@ -63,7 +63,7 @@ ul, li, a {
     text-decoration: underline;
 }
 
-#right {
+.text-right {
     text-align: right;
 }
 
@@ -76,13 +76,36 @@ ul, li, a {
 .btn {
     border-radius: 20px;
     margin: 0 20px;
-    display: inline-block;
     text-decoration: none;
 }
 
-/* .btn-light {
+.btn-light {
     background-color: white;
-} */
+    color: #23272A;
+}
+
+.btn-light:hover {
+    color: blue;
+}
+
+.btn-dark {
+    background-color:  #23272A;
+    color: white;
+}
+
+.btn-dark:hover {
+    color: blue;
+}
+
+.btn-small {
+    font-size: 14px;
+    padding: 10px 15px;
+}
+
+.btn-large {
+    font-size: 20px;
+    padding: 20px 25px;
+}
 
 /* JUMBOTRON */
 
