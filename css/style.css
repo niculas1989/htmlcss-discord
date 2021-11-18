@@ -302,7 +302,7 @@ ul, li {
 }
 
 .footer-page h3 {
-    font-size: 50px;
+    font-size: 35px;
 }
 
 .footer-page p {
@@ -337,4 +337,14 @@ ul, li {
 
 table {
     text-align: center;
+}
+
+#italian-flag {
+    display: inline;
+    height: 15px;
+    width: 15px;
+}
+
+.container hr {
+    color: #8EA1E1;
 }
