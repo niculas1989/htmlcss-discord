@@ -321,7 +321,6 @@ ul, li {
 .footer-container {
     height: 50px;
     width: 100%;
-    border-top: 2px solid #8EA1E1;
 
     margin-top: 70px;
 }
@@ -332,4 +331,3 @@ ul, li {
 
 .footer-container img {
     float: left;
-}
