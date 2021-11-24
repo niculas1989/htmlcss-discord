@@ -54,6 +54,10 @@ header {
     background-color: #f6f6f6;
 }
 
+.wave-transition {
+    transform: rotate(180deg);
+}
+
 /* HEADER */
 
 /* top-bar */
@@ -226,7 +230,7 @@ ul, li {
 /* section CONTACT */
 
 .contact {
-    margin: 150px 0;
+    margin-top: -23px;
     height:max-content;
     width: 100%;
     text-align: center;
