@@ -68,7 +68,7 @@ header {
     line-height: 80px;
 }
 
-ul, li {
+.top-men ul, li {
     display: inline-block;
     margin: 0 10px;
 }
@@ -251,6 +251,8 @@ ul, li {
 
 .contact img {
     width: 1200px;
+    
+    margin-bottom: 100px;
 }
 
 /* section READY */
@@ -270,8 +272,6 @@ ul, li {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-
-    /* margin: 50px 0; */
 }
 
 .ready-style {
