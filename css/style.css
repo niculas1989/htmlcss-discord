@@ -179,8 +179,12 @@ ul, li {
 
 /* section FINDING */
 
-.finding {
+/* .finding {
     margin: 150px 0;
+} */
+
+.finding {
+    margin-top: -5px;
 }
 
 .finding h2 {
