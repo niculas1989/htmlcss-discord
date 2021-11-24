@@ -310,11 +310,14 @@ header {
 }
 
 .footer-page h3 {
-    font-size: 35px;
+    font-size: 2rem;
 }
 
 .footer-page p {
+    display: inline-block;
     color: white;
+    padding-top: 30px;
+    padding-bottom: 15px;
 }
 
 .footer-page .fab {
@@ -344,15 +347,19 @@ header {
 }
 
 table {
-    text-align: center;
+    text-align: left;
 }
 
 #italian-flag {
-    display: inline;
+    display: inline-block;
     height: 15px;
     width: 15px;
 }
 
 .container hr {
     color: #8EA1E1;
+}
+
+.left-col {
+    padding-left: 100px;
 }
