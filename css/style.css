@@ -300,8 +300,9 @@ header {
 
 /* FOOTER */
 
-.footer-page {
-    height: 500px;
+footer {
+    padding-top: 100px;
+    height: 700px;
     background-color: #23272A;
 }
 
@@ -356,10 +357,8 @@ table {
     width: 15px;
 }
 
-.container hr {
-    color: #8EA1E1;
-}
-
-.left-col {
-    padding-left: 100px;
+.footer-container hr {
+    margin-top: 40px;
+    margin-bottom: 25px;
+    color:#8EA1E1;
 }
